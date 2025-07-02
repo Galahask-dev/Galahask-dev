@@ -86,9 +86,8 @@ Passionate developer specialized in creating servers and resources for **FiveM**
 
 ### 📫 Contact
 
-- 💼 **Discord Server:** [Join Here](https://discord.gg/hsZsSyzTUE)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** your-portfolio.com
+- 💼 **Discord Server:** [Here](https://discord.gg/hsZsSyzTUE)
+
 
 ---
 
